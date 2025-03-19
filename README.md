@@ -1,6 +1,6 @@
 ### Olá pessoal 👋
 
-Eu sou a **Tamiris Tavares**, uma desenvolvedora apaixonada por **Machine Learning** e **Python**, com foco em criar soluções inteligentes e eficientes. Atualmente, estou cursando **Engenharia de Computação** e me dedicando ao aprendizado de técnicas avançadas de análise de dados, modelagem preditiva e processamento de linguagem natural (PLN). Meu objetivo é aprimorar minhas habilidades em ciência de dados e contribuir para projetos inovadores na área de Machine Learning.
+Eu sou a **Tamiris Tavares**, uma desenvolvedora interessada por **Machine Learning** e **Python**, com foco em criar soluções inteligentes e eficientes. Atualmente, estou cursando **Engenharia de Computação** e me dedicando ao aprendizado de técnicas avançadas de análise de dados, modelagem preditiva e processamento de linguagem natural (PLN). Meu objetivo é aprimorar minhas habilidades em ciência de dados e contribuir para projetos inovadores na área de Machine Learning.
 
 ---
 
